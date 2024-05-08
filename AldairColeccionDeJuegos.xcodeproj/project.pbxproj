@@ -14,6 +14,7 @@
 		F39027F52BEBDC790020D5C9 /* AldairColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F39027F32BEBDC790020D5C9 /* AldairColeccionDeJuegos.xcdatamodeld */; };
 		F39027F72BEBDC790020D5C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F39027F62BEBDC790020D5C9 /* Assets.xcassets */; };
 		F39027FA2BEBDC790020D5C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F39027F82BEBDC790020D5C9 /* LaunchScreen.storyboard */; };
+		F39028022BEBE6A40020D5C9 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39028012BEBE6A40020D5C9 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F39027F62BEBDC790020D5C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F39027F92BEBDC790020D5C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F39027FB2BEBDC790020D5C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F39028012BEBE6A40020D5C9 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F39027EC2BEBDC790020D5C9 /* SceneDelegate.swift */,
 				F39027EE2BEBDC790020D5C9 /* ViewController.swift */,
 				F39027F02BEBDC790020D5C9 /* Main.storyboard */,
+				F39028012BEBE6A40020D5C9 /* JuegosViewController.swift */,
 				F39027F62BEBDC790020D5C9 /* Assets.xcassets */,
 				F39027F82BEBDC790020D5C9 /* LaunchScreen.storyboard */,
 				F39027FB2BEBDC790020D5C9 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F39028022BEBE6A40020D5C9 /* JuegosViewController.swift in Sources */,
 				F39027EF2BEBDC790020D5C9 /* ViewController.swift in Sources */,
 				F39027EB2BEBDC790020D5C9 /* AppDelegate.swift in Sources */,
 				F39027F52BEBDC790020D5C9 /* AldairColeccionDeJuegos.xcdatamodeld in Sources */,
